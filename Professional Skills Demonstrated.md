@@ -1,0 +1,5 @@
+Professional Skills Demonstrated
+
+* Cross-Disciplinary Integration: Unifying electrical engineering sub-disciplines (RF engineering, digital signal processing, and FPGA hardware design) with modern deep learning frameworks and software engineering practices.
+* Production-Grade Repository Structuring: Organizing complex multi-file projects with clean directory layouts, explicit configuration files (model_config.yaml, sim_config.yaml, spectrum_config.yaml), version control exclusions (.gitignore), and comprehensive README documentation.
+* Rigorous Performance Evaluation Methodologies: Employing specialized validation strategies, including SNR-binned classification accuracy breakdowns, Normalized Mean Square Error (NMSE) tracking, and reconstruction loss thresholds to verify system reliability.

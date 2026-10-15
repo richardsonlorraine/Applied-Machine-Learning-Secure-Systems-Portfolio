@@ -1,0 +1,6 @@
+Portfolio Highlights
+
+* Live SDR Integration: Successfully designed and implemented an inference loop that ingests real-time over-the-air raw I/Q transmission buffers captured via USB Software-Defined Radios, streaming them directly into a trained PyTorch 1D residual network to output real-time modulation classifications and confidence scores.
+* Automated Python-to-VHDL MLOps Pipeline: Eliminated error-prone manual weight entry by building a programmatic export script that automatically compiles trained PyTorch neural network parameters into synthesizable VHDL ROM package constants ready for FPGA fabric synthesis.
+* Comprehensive Physical-Layer Simulation Frameworks: Constructed custom Python-based simulators replicating complex baseband communications, including subcarrier allocation, pilot insertion, FFT processing, and multi-path Rayleigh fading channel distortion to rigorously benchmark deep learning estimators against traditional Least Squares techniques.
+* Unsupervised SIGINT Anomaly Detection: Engineered a baseline-trained Convolutional Autoencoder capable of identifying out-of-distribution frequency sweeps, malicious jammers, and unauthorized transmissions through real-time reconstruction error measurement without requiring pre-labeled training sets of hostile signals.
